@@ -1,0 +1,1 @@
+import{D as n,K as s,O as a,aa as o,u as r,F as u,G as l,aS as i}from"./vue-BRcfBYTG.js";const d=n({__name:"NeedLogin",setup(m){const t=i();return(p,e)=>(l(),s(u,null,[e[0]||(e[0]=a("div",null,"需要登录",-1)),a("div",null,o(r(t).meta),1)],64))}});export{d as default};

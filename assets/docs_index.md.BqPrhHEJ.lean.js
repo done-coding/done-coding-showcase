@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,ag as o}from"./chunks/framework.BaNuf0sO.js";const f=JSON.parse('{"title":"文档","description":"","frontmatter":{},"headers":[],"relativePath":"docs/index.md","filePath":"docs/index.md"}'),n={name:"docs/index.md"};function i(l,e,d,s,c,p){return r(),t("div",null,[...e[0]||(e[0]=[o("",5)])])}const h=a(n,[["render",i]]);export{f as __pageData,h as default};

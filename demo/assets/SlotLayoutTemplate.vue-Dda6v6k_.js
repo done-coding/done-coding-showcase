@@ -1,0 +1,1 @@
+import{D as n,ae as l,a7 as o,ar as r}from"./vue-BRcfBYTG.js";const u=n({name:"SlotLayoutTemplate",inheritAttrs:!1,props:{tag:{type:[String,Object,Function],default:"div"},disabled:{type:Boolean,default:!1}},setup(a){const s=l(),t=o();return()=>{var e;return a.disabled?(e=t.default)==null?void 0:e.call(t):r(a.tag,s,t)}}});export{u as _};

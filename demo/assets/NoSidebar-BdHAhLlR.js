@@ -1,0 +1,1 @@
+import{bL as t}from"./index-9Y7d9zBP.js";import{D as o,H as r,M as s,u as e,G as n,O as p,aa as i,aS as u}from"./vue-BRcfBYTG.js";import"./lodash-BRZATbIC.js";const x=o({__name:"NoSidebar",setup(c){const a=u();return(l,m)=>(n(),r(e(t),{fullViewport:""},{default:s(()=>[p("div",null,i(e(a).meta.title),1)]),_:1}))}});export{x as default};

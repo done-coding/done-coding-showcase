@@ -1,0 +1,1 @@
+import{D as t,K as n,O as a,aa as o,u as r,F as u,G as l,aS as i}from"./vue-BRcfBYTG.js";const d=t({__name:"NeedPermission",setup(m){const s=i();return(p,e)=>(l(),n(u,null,[e[0]||(e[0]=a("div",null,"需要权限",-1)),a("div",null,o(r(s).meta),1)],64))}});export{d as default};
